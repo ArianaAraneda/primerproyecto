@@ -1,4 +1,4 @@
-// favoritos.service.ts
+
 import { Injectable } from '@angular/core';
 import { BehaviorSubject } from 'rxjs';
 import { Producto } from '../modelos/producto.model';
